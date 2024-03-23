@@ -1,0 +1,230 @@
+[
+  {
+    "outputFileName": "Content/bootstrap-theme.min.css",
+    "inputFiles": [
+      "Content/bootstrap-theme.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/bootstrap.min.css",
+    "inputFiles": [
+      "Content/bootstrap.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/Site.min.css",
+    "inputFiles": [
+      "Content/Site.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/font-awesome.min.css",
+    "inputFiles": [
+      "Content/font-awesome.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/se-form.min.css",
+    "inputFiles": [
+      "Content/se-form.css"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/bootstrap.min.js",
+    "inputFiles": [
+      "Scripts/bootstrap.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/jquery-3.4.1.intellisense.min.js",
+    "inputFiles": [
+      "Scripts/jquery-3.4.1.intellisense.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/jquery-3.4.1.min.js",
+    "inputFiles": [
+      "Scripts/jquery-3.4.1.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/jquery-3.4.1.slim.min.js",
+    "inputFiles": [
+      "Scripts/jquery-3.4.1.slim.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/jquery.unobtrusive-ajax.min.js",
+    "inputFiles": [
+      "Scripts/jquery.unobtrusive-ajax.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/jquery.validate-vsdoc.min.js",
+    "inputFiles": [
+      "Scripts/jquery.validate-vsdoc.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/scroll.min.js",
+    "inputFiles": [
+      "Scripts/scroll.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/modernizr-2.8.3.min.js",
+    "inputFiles": [
+      "Scripts/modernizr-2.8.3.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/knockout-2.2.0.min.js",
+    "inputFiles": [
+      "Scripts/knockout-2.2.0.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/jquery.validate.unobtrusive.min.js",
+    "inputFiles": [
+      "Scripts/jquery.validate.unobtrusive.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/jquery.validate.min.js",
+    "inputFiles": [
+      "Scripts/jquery.validate.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/css/bootstrap-theme.min.css",
+    "inputFiles": [
+      "Content/css/bootstrap-theme.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/css/bootstrap.min.css",
+    "inputFiles": [
+      "Content/css/bootstrap.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/css/font-awesome.min.css",
+    "inputFiles": [
+      "Content/css/font-awesome.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/css/se-form.min.css",
+    "inputFiles": [
+      "Content/css/se-form.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/css/Site.min.css",
+    "inputFiles": [
+      "Content/css/Site.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/bootstrap.min.js",
+    "inputFiles": [
+      "Content/js/bootstrap.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/jquery-3.4.1.intellisense.min.js",
+    "inputFiles": [
+      "Content/js/jquery-3.4.1.intellisense.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/jquery-3.4.1.min.js",
+    "inputFiles": [
+      "Content/js/jquery-3.4.1.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/jquery-3.4.1.slim.min.js",
+    "inputFiles": [
+      "Content/js/jquery-3.4.1.slim.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/jquery.unobtrusive-ajax.min.js",
+    "inputFiles": [
+      "Content/js/jquery.unobtrusive-ajax.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/jquery.validate-vsdoc.min.js",
+    "inputFiles": [
+      "Content/js/jquery.validate-vsdoc.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/jquery.validate.min.js",
+    "inputFiles": [
+      "Content/js/jquery.validate.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/jquery.validate.unobtrusive.min.js",
+    "inputFiles": [
+      "Content/js/jquery.validate.unobtrusive.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/knockout-2.2.0.min.js",
+    "inputFiles": [
+      "Content/js/knockout-2.2.0.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/modernizr-2.8.3.min.js",
+    "inputFiles": [
+      "Content/js/modernizr-2.8.3.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/scroll.min.js",
+    "inputFiles": [
+      "Content/js/scroll.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/Pgsoftweb.api.min.js",
+    "inputFiles": [
+      "Content/js/Pgsoftweb.api.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/Pgsoftweb.Facebook.Pixel.min.js",
+    "inputFiles": [
+      "Content/js/Pgsoftweb.Facebook.Pixel.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/Pgsoftweb.GoogleAnalytics-1.min.js",
+    "inputFiles": [
+      "Content/js/Pgsoftweb.GoogleAnalytics-1.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/Pgsoftweb.Smartlook.min.js",
+    "inputFiles": [
+      "Content/js/Pgsoftweb.Smartlook.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/Pgsoftweb.TawkTo.min.js",
+    "inputFiles": [
+      "Content/js/Pgsoftweb.TawkTo.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/js/bootstrap.jquery.min.js",
+    "inputFiles": [
+      "Content/js/bootstrap.jquery.js"
+    ]
+  }
+]
