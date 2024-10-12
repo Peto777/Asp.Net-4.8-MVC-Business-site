@@ -41,7 +41,6 @@
     <script type="text/javascript" src='@Url.Content("~/Content/js/jquery-3.4.1.min.js")'></script>
     <script type="text/javascript" src='@Url.Content("~/Content/js/jquery.unobtrusive-ajax.min.js")'></script>
     <script type="text/javascript" src="@Url.Content("~/Content/js/Pgsoftweb.GoogleAnalytics-1.min.js")"></script>
-    @*<script type="text/javascript" src="@Url.Content("~/Content/js/Pgsoftweb.Facebook.Pixel.min.js")"></script>*@
     <script type="text/javascript" src="@Url.Content("~/Content/js/bootstrap.jquery.min.js")"></script>
     <script type="text/javascript" src="@Url.Content("~/Content/js/bootstrap.min.js")"></script>
     <script type="text/javascript" src="@Url.Content("~/Content/js/scroll.min.js")"></script>
@@ -60,20 +59,13 @@
     <title>@ViewBag.Title | Gloziksoft</title>
 </head>
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KFXGWZL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-    <!--fb pixel-->
-    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1767206673502380&ev=PageView&noscript=1" />
-    <script type="text/javascript">fbq('trackCustom', 'ViewSiteContent', { content_item: 'WEB_COM_EN' });</script>
+
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                     <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
+                    <i id="menuIcon" class="menu-icon fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand" href="@Url.Action("Index", "Home")" hreflang="en"><img class="header-logo" src="@Url.Content("~/images/gloziksoft_logo.png")" height="85" alt="Gloziksoft   , s.r.o." /></a>
             </div>

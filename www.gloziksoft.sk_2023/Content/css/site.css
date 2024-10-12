@@ -19,6 +19,10 @@ body {
   margin-bottom: 0;
 }
 
+.navbar-default {
+    background: linear-gradient(to left, #294b72, #0d1c38);
+}
+
 .navbar-toggle {
   background-color: transparent;
   border: 1px solid #ddd;
@@ -78,7 +82,7 @@ video.portfolio {
     margin-top: 20px;
     padding-top: 20px;
     padding-bottom: 50px;
-    background-color: #000000db;
+    background: linear-gradient(to top, #294b72, #0d1c38);
 }
 .footer .headline {
     margin-top: 20px;

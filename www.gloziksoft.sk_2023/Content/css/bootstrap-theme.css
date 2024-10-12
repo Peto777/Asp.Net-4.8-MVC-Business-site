@@ -323,8 +323,7 @@ fieldset[disabled] .btn-danger.active {
   text-decoration: none;
 }
 .navbar-default {
-    background-color: #000000;
-    /*   color:#00947e;*/
+       color:#fff;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .active > a {

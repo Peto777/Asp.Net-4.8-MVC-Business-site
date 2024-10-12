@@ -15,11 +15,11 @@
         $('#menuIcon').removeClass('fa-times').addClass('fa-bars');
     });
 
-    $('#navbar-protected').on('show.bs.collapse', function () {
+    $('#navbar-product').on('show.bs.collapse', function () {
         $('#menuIconProtect').removeClass('fa-bars').addClass('fa-times');
     });
 
-    $('#navbar-protected').on('hide.bs.collapse', function () {
+    $('#navbar-product').on('hide.bs.collapse', function () {
         $('#menuIconProtect').removeClass('fa-times').addClass('fa-bars');
     });
 })
