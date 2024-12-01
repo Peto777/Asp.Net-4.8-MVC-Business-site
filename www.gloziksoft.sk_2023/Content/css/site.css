@@ -144,7 +144,8 @@ video.portfolio {
     margin-top: 10px;
 }
 .header-logo {
-    margin-top: -28px;
+    margin-top: -25px;
+    height: 85px;
 }
 .margin-top {
     margin-top: 10px;
@@ -276,8 +277,9 @@ div.hidden {
 }
 
 .mainpage-block img {
-    max-width: 60vw;
-    margin-left: -65px;
+    max-width: 75vw;
+    margin-left: -25px;
+    width: 400px;
 }
 
 .blog-post {
